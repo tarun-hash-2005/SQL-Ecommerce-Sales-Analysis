@@ -1,0 +1,11 @@
+OrderID,CustomerID,CustomerName,Product,Category,Quantity,Price,OrderDate,City
+1001,C001,Rahul,Laptop,Electronics,1,50000,10-01-2025,Delhi
+1002,C002,Priya,Phone,Electronics,2,25000,12-01-2025,Mumbai
+1003,C003,Aman,Headphones,Accessories,3,1500,15-01-2025,Delhi
+1004,C001,Rahul,Mouse,Accessories,2,800,18-01-2025,Delhi
+1005,C004,Neha,Laptop,Electronics,1,52000,20-01-2025,Bangalore
+1006,C005,Rohan,Keyboard,Accessories,2,1200,22-01-2025,Chandigarh
+1007,C002,Priya,Phone,Electronics,1,25000,25-01-2025,Mumbai
+1008,C006,Simran,Tablet,Electronics,1,30000,27-01-2025,Gurgaon
+1009,C007,Arjun,Mouse,Accessories,4,800,29-01-2025,Jaipur
+1010,C003,Aman,Laptop,Electronics,1,50000,01-02-2025,Delhi
