@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 This project analyzes e-commerce sales data using MySQL to identify business trends, customer behavior, product performance, and revenue insights. The objective is to demonstrate SQL skills commonly required for Data Analyst roles.
 
+
 ## 🎯 Project Objectives
 - Analyze overall sales performance
 - Identify top-selling products
@@ -11,11 +12,17 @@ This project analyzes e-commerce sales data using MySQL to identify business tre
 - Track monthly sales trends
 - Generate actionable business insights
 
+---
+
+
 ## 🛠️ Tools & Technologies
 - MySQL
 - SQL
 - GitHub
 - CSV Dataset
+
+---
+
 
 ## 📂 Project Structure
 
@@ -33,6 +40,10 @@ SQL-Ecommerce-Sales-Analysis
 │ ├── top_customers.png
 │ ├── city_revenue.png
 │ └── monthly_revenue.png
+
+
+---
+
 
 
 ## 📊 Business Questions Solved
@@ -65,6 +76,9 @@ Calculated average revenue per order.
 Measured repeat purchase behavior.
 
 
+---
+
+
 ## 🔍 SQL Concepts Used
 
 - SELECT Statement
@@ -82,6 +96,10 @@ Measured repeat purchase behavior.
 - Aliases
 - Data Filtering
 
+---
+
+  
+
 ## 📈 Key Insights
 
 - Electronics category generated the highest revenue.
@@ -89,6 +107,10 @@ Measured repeat purchase behavior.
 - Delhi contributed the highest overall sales.
 - Top customers generated a significant portion of total revenue.
 - Monthly sales showed positive growth trends.
+
+
+---
+
 
 
 ## 🚀 Learning Outcomes
@@ -103,15 +125,35 @@ Through this project, I improved my skills in:
 - Revenue Analysis
 - GitHub Project Documentation
 
+---
 
-## 👨‍💻 Author
+
+
+## 👨‍💻 About Me
 
 **Tarun Kumar Sengar**
 
-Aspiring Data Analyst | BCA Graduate
+Aspiring **Data Analyst** with expertise in **Excel, SQL, Power BI, Python, and Pandas**. Passionate about transforming raw data into actionable insights through interactive dashboards and data-driven storytelling.
+
+📧 **Email:** kumarsengartarun@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/tarun-kumar-sengar-21609a284
+
+---
+
+
+## ⭐ If you found this project useful, please consider giving it a Star!
+
+Your support motivates me to build more real-world Data Analytics projects and share them with the community.
+
+---
+
+
+## 📄 License
+
+This project is released under the **MIT License** and is intended for educational and portfolio purposes.
 
 LinkedIn: https://www.linkedin.com/in/tarun-kumar-sengar-21609a284/
 
 GitHub: github.com/tarun-hash-2005
 
-## ⭐ If you found this project useful, please consider giving it a star.
